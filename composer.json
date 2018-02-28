@@ -1,0 +1,14 @@
+{
+    "name": "javier/cmsturismo",
+    "description": "Wordpress cms",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "qaje",
+            "email": "javierpal3232@gmail.com"
+        }
+    ],
+    "require": {
+        "johnpbloch/wordpress": "^4.9"
+    }
+}
